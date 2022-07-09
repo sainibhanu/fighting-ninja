@@ -1,17 +1,17 @@
 ﻿# fighting-ninja
 This is a simple Dual Player Fighting Game. Create with the help of javascript and HTML Canvas. My first Github Repository. I hope you enjoy the game. 
 
-**player one move**
-press D- move right
-press A - move left
-press w - jump
-space bar - attack with a sword
+**player one move** ->
+press D- move right,
+press A - move left,
+press w - jump,
+space bar - attack with a sword,
 
-**player two move**
-press up key- jump
-press down key - attack with a sword
-press back arrow - move left
-space forward arrow - move right
+**player two move** ->
+press up key- jump,
+press down key - attack with a sword,
+press back arrow - move left,
+space forward arrow - move right,
 
 this is a simple project 
 keep enjoying,
